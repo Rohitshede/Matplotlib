@@ -1,5 +1,3 @@
-# Matplotlib Documentation
-
 ![Matplotlib Logo](https://matplotlib.org/stable/_static/logo2_compressed.svg)
 
 ## Overview
