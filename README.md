@@ -1,5 +1,3 @@
-![Matplotlib Logo](https://matplotlib.org/stable/_static/logo2_compressed.svg)
-
 ## Overview
 
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. It is a widely used 2D plotting library that produces high-quality charts and figures.
